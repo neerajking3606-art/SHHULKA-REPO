@@ -187,7 +187,7 @@ heroku ps:restart worker
 
 ## 📞 Support
 
-- **Telegram**: [@Divyanshshukla7](https://t.me/Divyanshshukla7)
+- **Telegram**: [@Divyanshshukla7](https://t.me/praxharaj)
 - **Channel**: Updates and announcements
 
 ---
